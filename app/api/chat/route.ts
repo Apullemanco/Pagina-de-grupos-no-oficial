@@ -2,7 +2,7 @@ import { gateway, generateText } from 'ai'
 import { NextRequest, NextResponse } from 'next/server'
 import groupsData from '@/data/groups.json'
 
-const context = `Eres TECbot, el asistente del portal de Grupos Estudiantiles del Tecnológico de Monterrey, campus Monterrey. Responde en español y usa los datos concretos que aparecen en el contexto. No inventes nombres, correos, fechas ni grupos. Si falta información, dilo claramente y guía a la sección correcta. Sé útil: da pasos, menciona nombres de grupos cuando correspondan y responde directamente a la pregunta.
+const context = `Eres el Asistente de Grupos, una guía estudiantil del portal no oficial de grupos del Tec Campus Monterrey. Responde siempre en español, de forma directa y útil. Primero identifica la intención de la pregunta; no respondas con información genérica si preguntan por un grupo, consejo, líder, formato, reserva o trámite. Usa únicamente los datos concretos del contexto; no inventes nombres, correos, fechas ni grupos. Si no tienes el dato, dilo y señala la sección exacta donde puede revisarse. No menciones que eres un bot ni afirmes que el portal es oficial.
 
 DATOS DEL PORTAL:
 - Hay ${groupsData.length} grupos estudiantiles organizados por giro.
@@ -20,7 +20,7 @@ function localReply(message: string) {
   if (text.includes('presupuesto') || text.includes('dinero') || text.includes('pago')) return 'La solicitud de presupuesto debe enviarse con al menos 15 días hábiles de anticipación. Revisa el formato correspondiente y la fecha vigente en “Formatos” y “Fechas importantes”. El contacto administrativo se publicará en cuanto coordinación lo agregue.'
   if (text.includes('giro') || text.includes('categor')) return `Puedes filtrar los ${groupsData.length} grupos desde “Grupos”. Los giros disponibles son: ${Array.from(new Set(groupsData.map((g) => g.category))).join(', ')}.`
   if (text.includes('formato') || text.includes('documento')) return 'Ve a “Formatos” para consultar cada documento, su ejemplo y su fecha límite. Si todavía no aparece un formato, significa que coordinación aún no lo ha publicado.'
-  if (text.includes('líder') || text.includes('lider') || text.includes('contacto')) return 'La pestaña “Líderes” reúne los responsables y sus medios de contacto cuando coordinación los publique. Para contactar al responsable del portal, usa el enlace “Contacto” del pie de página.'
+  if (text.includes('líder') || text.includes('lider') || text.includes('contacto')) return 'La pestaña “Líderes” reúne líderes de portafolio y presidencias. Para solicitar acompañamiento, busca el consejo relacionado con tu grupo y abre su ficha para consultar el contacto disponible.'
   if (text.includes('noticia') || text.includes('evento') || text.includes('convocatoria')) return 'Consulta “Noticias” para ver eventos, convocatorias y avisos publicados. El muro se actualiza desde el panel de administración para toda la comunidad.'
   const matches = groupsData.filter((g) => {
     const haystack = normalize(`${g.name} ${g.acronym} ${g.description} ${g.category}`)
