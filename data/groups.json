@@ -1,0 +1,1145 @@
+[
+  {
+    "id": "1",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "Asociación de Estudiantes de Arte y Cultura",
+    "acronym": "AEAC",
+    "description": "Crear un impacto por medio del arte en la formación profesional de la comunidad estudiantil y ayudarles a fusionar su pasión con su carrera. Dar a conocer los distintos caminos del arte y del entretenimiento, desarrollando empatía, sensibilidad, liderazgo artístico-cultural y visibilidad a su trabajo.",
+    "instagram": "@aeac.mty",
+    "instagramUrl": "https://www.instagram.com/aeac.mty"
+  },
+  {
+    "id": "2",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "Asociación de Estudiantes por la Música",
+    "acronym": "AEM",
+    "description": "Fomentar y difundir la música dentro y fuera del Tecnológico de Monterrey, brindando plataformas, herramientas y oportunidades para impulsar el talento, la creatividad y la escena musical local.",
+    "instagram": "@aemtec.mty",
+    "instagramUrl": "https://www.instagram.com/aemtec.mty"
+  },
+  {
+    "id": "3",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "ARTEC",
+    "acronym": "ARTEC",
+    "description": "Crear una comunidad para desarrollar habilidades creativas, artísticas, de liderazgo, organización y trabajo en equipo, abriendo un espacio seguro para la libre expresión de ideas y emociones a través del teatro de texto y teatro musical.",
+    "instagram": "@artec.mty",
+    "instagramUrl": "https://www.instagram.com/artec.mty"
+  },
+  {
+    "id": "4",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "Borregos & Beholders",
+    "acronym": "B&B",
+    "description": "Impulsar el desarrollo comunitario a través de actividades de integración, dinámicas y la pasión por los juegos de mesa, para permitir un ambiente donde las personas puedan despreocuparse y divertirse en su día a día.",
+    "instagram": "@bybtec.mty.",
+    "instagramUrl": "https://www.instagram.com/bybtec.mty."
+  },
+  {
+    "id": "5",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "CRAFTEX",
+    "acronym": "CRAFTEX",
+    "description": "Crear una comunidad y espacio seguro donde las personas exploren su creatividad y pasiones artísticas, otorgando herramientas, métodos y lecciones para desarrollar pasatiempos a través de diferentes técnicas de tejido.",
+    "instagram": "@craftex.mty.",
+    "instagramUrl": "https://www.instagram.com/craftex.mty."
+  },
+  {
+    "id": "6",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "FILMA",
+    "acronym": "FILMA",
+    "description": "Crear una comunidad y un espacio en torno al séptimo arte en todas sus formas. Celebramos el cine que conecta con el público, que inspira y despierta curiosidad, y que abre nuevas formas de mirar y sentir.",
+    "instagram": "@filma.mty.",
+    "instagramUrl": "https://www.instagram.com/filma.mty."
+  },
+  {
+    "id": "7",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "Inspirarte",
+    "acronym": "INSPIRARTE",
+    "description": "Inspirar a la comunidad interna y externa a crear un cambio, ayudar y generar conciencia de las problemáticas sociales a través de las 7 bellas artes y actividades con impacto social.",
+    "instagram": "@inspirarte.mty.",
+    "instagramUrl": "https://www.instagram.com/inspirarte.mty."
+  },
+  {
+    "id": "8",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "K-Pop Tec",
+    "acronym": "K-POP",
+    "description": "Construir un espacio en donde la comunidad pueda expresar y desarrollar su pasión por la cultura popular coreana, así como difundirla más para crear un espacio seguro e inclusivo.",
+    "instagram": "@kpoptec.mty.",
+    "instagramUrl": "https://www.instagram.com/kpoptec.mty."
+  },
+  {
+    "id": "9",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "Lente Abierto Monterrey",
+    "acronym": "LAM",
+    "description": "Crear una comunidad estudiantil enfocada en la producción cinematográfica independiente, donde las y los estudiantes puedan transformar sus ideas en proyectos audiovisuales de impacto.",
+    "instagram": "@lente.abierto.mty",
+    "instagramUrl": "https://www.instagram.com/lente.abierto.mty"
+  },
+  {
+    "id": "10",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "Polka",
+    "acronym": "POLKA",
+    "description": "Fomentar una comunidad universitaria inclusiva a través del aprendizaje del baile social, promoviendo la convivencia, el bienestar y el desarrollo de habilidades interpersonales.",
+    "instagram": "@polka_tec",
+    "instagramUrl": "https://www.instagram.com/polka_tec"
+  },
+  {
+    "id": "11",
+    "category": "Arte, Cultura y Entretenimiento",
+    "name": "Vocal Nation",
+    "acronym": "VN",
+    "description": "Generar un espacio seguro donde la comunidad estudiantil del Campus Monterrey pueda expresar y enseñar su pasión por el canto a capela mediante eventos, ensayos y actividades culturales.",
+    "instagram": "@vocalnation.mty",
+    "instagramUrl": "https://www.instagram.com/vocalnation.mty"
+  },
+  {
+    "id": "12",
+    "category": "Deportivos y Recreativos",
+    "name": "8Bits",
+    "acronym": "8 BITS",
+    "description": "Promover una visión positiva e innovadora de los videojuegos como herramientas de aprendizaje, creatividad y desarrollo, fortaleciendo una comunidad apasionada y colaborativa.",
+    "instagram": "@8bits.mty.",
+    "instagramUrl": "https://www.instagram.com/8bits.mty."
+  },
+  {
+    "id": "13",
+    "category": "Deportivos y Recreativos",
+    "name": "AJETEC",
+    "acronym": "AJETEC",
+    "description": "Impulsar el interés y la participación en el ajedrez dentro del Tec mediante la creación de una comunidad dinámica donde jugadores de todos los niveles puedan aprender y competir.",
+    "instagram": "@ajetec.mty.",
+    "instagramUrl": "https://www.instagram.com/ajetec.mty."
+  },
+  {
+    "id": "14",
+    "category": "Deportivos y Recreativos",
+    "name": "Bowrregos Club de Tiro con Arco",
+    "acronym": "BOWRREGOS",
+    "description": "Crear un espacio seguro para que interesados puedan aprender tiro con arco y personas con experiencia puedan entrenar, ampliando las opciones deportivas y competitivas.",
+    "instagram": "@bowrregos.mty.",
+    "instagramUrl": "https://www.instagram.com/bowrregos.mty."
+  },
+  {
+    "id": "15",
+    "category": "Deportivos y Recreativos",
+    "name": "Club de Montañismo Tec",
+    "acronym": "CMT",
+    "description": "Promover y compartir actividades relacionadas con el montañismo, inculcando la cultura adecuada de la montaña: trabajo en equipo, consideración y respeto al medio ambiente.",
+    "instagram": "@cmt.mty.",
+    "instagramUrl": "https://www.instagram.com/cmt.mty."
+  },
+  {
+    "id": "16",
+    "category": "Deportivos y Recreativos",
+    "name": "Tec Chase",
+    "acronym": "TC",
+    "description": "Fortalecer una comunidad estudiantil en torno a Super Smash Bros., promoviendo la convivencia, torneos y vinculación con el área de esports del Tec.",
+    "instagram": "@tec.chase",
+    "instagramUrl": "https://www.instagram.com/tec.chase"
+  },
+  {
+    "id": "17",
+    "category": "Deportivos y Recreativos",
+    "name": "Tec Running",
+    "acronym": "TEC RUNNING",
+    "description": "Construir una comunidad sólida de corredores que motive a incorporar el running como un estilo de vida, promoviendo el bienestar integral y el sentido de pertenencia.",
+    "instagram": "@tecrunning.mty.",
+    "instagramUrl": "https://www.instagram.com/tecrunning.mty."
+  },
+  {
+    "id": "18",
+    "category": "Deportivos y Recreativos",
+    "name": "Club de Golf",
+    "acronym": "GOLF TEC",
+    "description": "Consolidar un espacio que acerque a los estudiantes a la práctica del golf, fomentando valores como disciplina, estrategia y compañerismo mediante clínicas y torneos.",
+    "instagram": "@golftec.mty.",
+    "instagramUrl": "https://www.instagram.com/golftec.mty."
+  },
+  {
+    "id": "19",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Bulls & Bears Investment Club",
+    "acronym": "B&B",
+    "description": "Impulsar el conocimiento y desarrollo profesional de la comunidad estudiantil en inversiones, negocios y finanzas mediante proyectos y vinculación empresarial.",
+    "instagram": "@bullsandbears.mty",
+    "instagramUrl": "https://www.instagram.com/bullsandbears.mty"
+  },
+  {
+    "id": "20",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Empresarios Jóvenes CAINTRA",
+    "acronym": "CAINTRA",
+    "description": "Impulsar el deseo de emprender, ser líder y hacer networking, brindando un espacio para salir de la zona de confort y alcanzar metas bajo sólidos valores éticos.",
+    "instagram": "@jovenescaintra",
+    "instagramUrl": "https://www.instagram.com/jovenescaintra"
+  },
+  {
+    "id": "21",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Business Growthers",
+    "acronym": "BG",
+    "description": "Transformar la manera en que los estudiantes universitarios aprenden sobre negocios, emprendimiento y liderazgo mediante contenido dinámico y práctico.",
+    "instagram": "@businessgrowthers",
+    "instagramUrl": "https://www.instagram.com/businessgrowthers"
+  },
+  {
+    "id": "22",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Emprender Para Todos",
+    "acronym": "EPT",
+    "description": "Impulsar el ecosistema emprendedor mediante espacios que promuevan la visibilidad, vinculación y comercialización de proyectos estudiantiles y externos.",
+    "instagram": "@emprenderparatodos.mty.",
+    "instagramUrl": "https://www.instagram.com/emprenderparatodos.mty."
+  },
+  {
+    "id": "23",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Quant Capital Group",
+    "acronym": "QCG",
+    "description": "Formar una comunidad estudiantil especializada en finanzas cuantitativas mediante proyectos aplicados y aprendizaje de herramientas analíticas de la industria.",
+    "instagram": "@quantcapitalgroup.mty.",
+    "instagramUrl": "https://www.instagram.com/quantcapitalgroup.mty."
+  },
+  {
+    "id": "24",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Programa de Liderazgo Empresarial Internacional",
+    "acronym": "PLEI",
+    "description": "Impulsar a estudiantes a colaborar con empresas mexicanas y desarrollar oportunidades de negocio en el extranjero a través de misiones académico-comerciales.",
+    "instagram": "@plei.tec",
+    "instagramUrl": "https://www.instagram.com/plei.tec"
+  },
+  {
+    "id": "25",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Tec Consulting Club",
+    "acronym": "TCC",
+    "description": "Impulsar la empleabilidad de estudiantes con interés en la consultoría estratégica mediante talleres, masterclasses, casos de estudio y networking.",
+    "instagram": "@tecconsulting.mty.",
+    "instagramUrl": "https://www.instagram.com/tecconsulting.mty."
+  },
+  {
+    "id": "26",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Tec Investment Banking Club",
+    "acronym": "TIBC",
+    "description": "Democratizar la banca de inversión dentro del campus mediante desarrollo de talento, comunidad especializada y vinculación con actores clave del sector.",
+    "instagram": "@tibc.mty.",
+    "instagramUrl": "https://www.instagram.com/tibc.mty."
+  },
+  {
+    "id": "27",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "TEDx Tec de Monterrey",
+    "acronym": "TEDx",
+    "description": "Hacer que las grandes ideas sean accesibles y generen conversación para el florecimiento de la comunidad a través de eventos y su edición anual de charlas.",
+    "instagram": "@tedxtecdemty",
+    "instagramUrl": "https://www.instagram.com/tedxtecdemty"
+  },
+  {
+    "id": "28",
+    "category": "Desarrollo Profesional y Emprendimiento",
+    "name": "Tec Real Estate Society",
+    "acronym": "TRES",
+    "description": "Crear una comunidad de estudiantes con interés en real estate, desarrollo inmobiliario y gestión financiera para profundizar conocimientos y explorar vocaciones.",
+    "instagram": "@tecrealestatesociety",
+    "instagramUrl": "https://www.instagram.com/tecrealestatesociety"
+  },
+  {
+    "id": "29",
+    "category": "Ecología y Medio Ambiente",
+    "name": "Comprometidos por el Cuidado Animal",
+    "acronym": "CCAN",
+    "description": "Promover una cultura de respeto, protección y responsabilidad hacia los animales a través de concientización, voluntariado y alianzas con organizaciones de bienestar animal.",
+    "instagram": "@ccan.mty",
+    "instagramUrl": "https://www.instagram.com/ccan.mty"
+  },
+  {
+    "id": "30",
+    "category": "Ecología y Medio Ambiente",
+    "name": "National ITESM SDG Student Hub",
+    "acronym": "SDG HUB",
+    "description": "Promoción de los Objetivos de Desarrollo Sostenible (ODS) a través del programa de SDSN, enfocado en el desarrollo de proyectos de impacto.",
+    "instagram": "@sdghubtec.mty.",
+    "instagramUrl": "https://www.instagram.com/sdghubtec.mty."
+  },
+  {
+    "id": "31",
+    "category": "Ecología y Medio Ambiente",
+    "name": "Mexicambiente",
+    "acronym": "MEXICAMBIENTE",
+    "description": "Generar conciencia ambiental con un enfoque integral que une las ciencias sociales, la historia ambiental de México y la riqueza cultural de los pueblos originarios.",
+    "instagram": "@mexicambiente.mty",
+    "instagramUrl": "https://www.instagram.com/mexicambiente.mty"
+  },
+  {
+    "id": "32",
+    "category": "Inclusión, Diversidad y Género",
+    "name": "Asociación por la Inclusión, el Respeto y la Equidad",
+    "acronym": "AIRE",
+    "description": "Comunidad que promueve los derechos de las minorías sociales, creando espacios incluyentes, libres de estereotipos y con respeto hacia la diversidad LGBTIQ+.",
+    "instagram": "@aire.mty.",
+    "instagramUrl": "https://www.instagram.com/aire.mty."
+  },
+  {
+    "id": "33",
+    "category": "Inclusión, Diversidad y Género",
+    "name": "Women in Tech",
+    "acronym": "WIT",
+    "description": "Crear un espacio para fortalecer el avance de las mujeres en tecnología y aumentar la representación femenina en puestos clave de TI.",
+    "instagram": "@wit.mty.",
+    "instagramUrl": "https://www.instagram.com/wit.mty."
+  },
+  {
+    "id": "34",
+    "category": "Inclusión, Diversidad y Género",
+    "name": "Girl Up Tec Mty",
+    "acronym": "GIRL UP",
+    "description": "Empoderar a mujeres en entornos seguros mediante información, redes de apoyo, reflexión sobre derechos humanos, sororidad y liderazgo social.",
+    "instagram": "@girluptec.mty.",
+    "instagramUrl": "https://www.instagram.com/girluptec.mty."
+  },
+  {
+    "id": "35",
+    "category": "Inclusión, Diversidad y Género",
+    "name": "Movimiento por la Inclusión de la Neurodiversidad",
+    "acronym": "MIND",
+    "description": "Crear un espacio seguro para personas neurodivergentes, informando sobre salud mental, carga sensorial y adaptaciones amigables en el campus.",
+    "instagram": "@mindmty.",
+    "instagramUrl": "https://www.instagram.com/mindmty."
+  },
+  {
+    "id": "36",
+    "category": "Inclusión, Diversidad y Género",
+    "name": "Mujeres en Salud",
+    "acronym": "MUSA",
+    "description": "Impulsar y conectar a mujeres en áreas de salud, fortaleciendo su liderazgo y promoviendo la equidad mediante talleres, campañas y redes de apoyo.",
+    "instagram": "@musa.tec",
+    "instagramUrl": "https://www.instagram.com/musa.tec"
+  },
+  {
+    "id": "37",
+    "category": "Inclusión, Diversidad y Género",
+    "name": "Women in Science & Engineering",
+    "acronym": "WISE",
+    "description": "Empoderamiento y acompañamiento de niñas y mujeres interesadas en campos STEM (Ciencia, Tecnología e Ingeniería).",
+    "instagram": "@wise.mty",
+    "instagramUrl": "https://www.instagram.com/wise.mty"
+  },
+  {
+    "id": "38",
+    "category": "Medios y Publicaciones",
+    "name": "UbicaTec",
+    "acronym": "UBICATEC",
+    "description": "Facilitar la integración estudiantil mediante la centralización, clasificación y difusión oportuna de información, oportunidades y actividades del campus.",
+    "instagram": "@ubicatec_mty.",
+    "instagramUrl": "https://www.instagram.com/ubicatec_mty."
+  },
+  {
+    "id": "39",
+    "category": "Medios y Publicaciones",
+    "name": "Tinta Regia",
+    "acronym": "TR",
+    "description": "Espacio para fomentar la creación y pasión por la literatura mediante talleres de lectura y escritura, publicaciones propias y charlas con autores.",
+    "instagram": "@tinta_regia.mty.",
+    "instagramUrl": "https://www.instagram.com/tinta_regia.mty."
+  },
+  {
+    "id": "40",
+    "category": "Medios y Publicaciones",
+    "name": "Youth Science",
+    "acronym": "YS",
+    "description": "Divulgación de conocimiento científico para hacerlo comprensible y accesible a todo público, promoviendo el interés en las ciencias.",
+    "instagram": "@youth_science.mty.",
+    "instagramUrl": "https://www.instagram.com/youth_science.mty."
+  },
+  {
+    "id": "41",
+    "category": "Política y Ciudadanía",
+    "name": "Foro Líderes de México",
+    "acronym": "FLMX",
+    "description": "Foro nacional de liderazgo estudiantil para dialogar sobre gobernanza, formación cívica y proyectos con impacto social.",
+    "instagram": "@flmx.tec",
+    "instagramUrl": "https://www.instagram.com/flmx.tec"
+  },
+  {
+    "id": "42",
+    "category": "Política y Ciudadanía",
+    "name": "International Law Association",
+    "acronym": "ILA",
+    "description": "Formar una comunidad académica crítica sobre el rol del derecho internacional en conflictos globales e impulsar vocaciones internacionales.",
+    "instagram": "@ila_mexico_tec_mty",
+    "instagramUrl": "https://www.instagram.com/ila_mexico_tec_mty"
+  },
+  {
+    "id": "43",
+    "category": "Política y Ciudadanía",
+    "name": "Omicron Delta Epsilon",
+    "acronym": "ODE",
+    "description": "Sociedad de honor para estudiantes destacados en economía, enfocada en pensamiento crítico, análisis de políticas públicas e investigación.",
+    "instagram": "@ode.tec",
+    "instagramUrl": "https://www.instagram.com/ode.tec"
+  },
+  {
+    "id": "44",
+    "category": "Política y Ciudadanía",
+    "name": "Phi Delta Phi",
+    "acronym": "PDP",
+    "description": "Promover los más altos estándares éticos, profesionales e intelectuales en la formación jurídica y de derecho.",
+    "instagram": "@pdp_garciarendon",
+    "instagramUrl": "https://www.instagram.com/pdp_garciarendon"
+  },
+  {
+    "id": "45",
+    "category": "Política y Ciudadanía",
+    "name": "Tec Debating Union",
+    "acronym": "TDU",
+    "description": "Promover el debate parlamentario y la oratoria entre estudiantes a través de torneos, talleres y desarrollo argumentativo.",
+    "instagram": "@tecdebatingunion.mty.",
+    "instagramUrl": "https://www.instagram.com/tecdebatingunion.mty."
+  },
+  {
+    "id": "46",
+    "category": "Programas Académicos",
+    "name": "5-G RAMS Student Chapter of AWS",
+    "acronym": "AWS RAMS",
+    "description": "Networking, certificaciones y vinculación industrial en el área de soldadura y manufactura metalmecánica bajo estándares de la AWS.",
+    "instagram": "@5g_rams.aws",
+    "instagramUrl": "https://www.instagram.com/5g_rams.aws"
+  },
+  {
+    "id": "47",
+    "category": "Programas Académicos",
+    "name": "Acrópolis",
+    "acronym": "ACRÓPOLIS",
+    "description": "Formación en soft skills, oratoria, negociación y habilidades directivas para el éxito profesional.",
+    "instagram": "@acropolis.mty.",
+    "instagramUrl": "https://www.instagram.com/acropolis.mty."
+  },
+  {
+    "id": "48",
+    "category": "Programas Académicos",
+    "name": "Alumnado con Gusto e Iniciativa por la Innovación en Anestesiología",
+    "acronym": "ALGIIA",
+    "description": "Vincular a estudiantes con la especialidad de anestesiología mediante simulación clínica, talleres y vinculación médica.",
+    "instagram": "@algiia.mty.",
+    "instagramUrl": "https://www.instagram.com/algiia.mty."
+  },
+  {
+    "id": "49",
+    "category": "Programas Académicos",
+    "name": "Alumnos Interesados en Pediatría",
+    "acronym": "AIPED",
+    "description": "Profundizar conocimientos y habilidades prácticas en medicina pediátrica mediante alianzas hospitalarias y talleres especializados.",
+    "instagram": "@aiped.mty.",
+    "instagramUrl": "https://www.instagram.com/aiped.mty."
+  },
+  {
+    "id": "50",
+    "category": "Programas Académicos",
+    "name": "American Association of Neurological Surgeons",
+    "acronym": "AANS",
+    "description": "Brindar a estudiantes de medicina con interés en neurociencias la oportunidad de conocer a fondo la neurocirugía.",
+    "instagram": "@aanstec",
+    "instagramUrl": "https://www.instagram.com/aanstec"
+  },
+  {
+    "id": "51",
+    "category": "Programas Académicos",
+    "name": "American Chemical Society Chapter Tec de Monterrey",
+    "acronym": "ACS",
+    "description": "Comunidad de estudiantes de química y ramas afines enfocada en investigación, divulgación y desarrollo profesional.",
+    "instagram": "@acs.mty.",
+    "instagramUrl": "https://www.instagram.com/acs.mty."
+  },
+  {
+    "id": "52",
+    "category": "Programas Académicos",
+    "name": "American College of Physicians",
+    "acronym": "ACP",
+    "description": "Promover proyectos de salud comunitaria y formación clínica especializada en medicina interna.",
+    "instagram": "@acp.mty.",
+    "instagramUrl": "https://www.instagram.com/acp.mty."
+  },
+  {
+    "id": "53",
+    "category": "Programas Académicos",
+    "name": "American Concrete Institute",
+    "acronym": "ACI",
+    "description": "Capacitación técnica, adopción de estándares y certificación profesional en materiales y estructuras de concreto.",
+    "instagram": "@aci.mty",
+    "instagramUrl": "https://www.instagram.com/aci.mty"
+  },
+  {
+    "id": "54",
+    "category": "Programas Académicos",
+    "name": "American Institute of Chemical Engineers",
+    "acronym": "AIChE",
+    "description": "Formación integral para ingeniería química y participación en competencias de ingeniería como Chem-E-Car y Chem-E-Cube.",
+    "instagram": "@aiche.mty",
+    "instagramUrl": "https://www.instagram.com/aiche.mty"
+  },
+  {
+    "id": "55",
+    "category": "Programas Académicos",
+    "name": "American Psychiatric Association",
+    "acronym": "APA",
+    "description": "Informar y sensibilizar sobre salud mental, psiquiatría y psicología mediante talleres y grupos de apoyo.",
+    "instagram": "@apatecmty.",
+    "instagramUrl": "https://www.instagram.com/apatecmty."
+  },
+  {
+    "id": "56",
+    "category": "Programas Académicos",
+    "name": "American Society of Civil Engineers",
+    "acronym": "ASCE",
+    "description": "Competencias técnicas, visitas de obra y vinculación profesional con la industria de la construcción civil.",
+    "instagram": "@asce.mty",
+    "instagramUrl": "https://www.instagram.com/asce.mty"
+  },
+  {
+    "id": "57",
+    "category": "Programas Académicos",
+    "name": "American Society of Clinical Oncology",
+    "acronym": "ASCO",
+    "description": "Prevención, diagnóstico, abordaje clínico e investigación traslacional en oncología.",
+    "instagram": "@ascocancer.tec.mty",
+    "instagramUrl": "https://www.instagram.com/ascocancer.tec.mty"
+  },
+  {
+    "id": "58",
+    "category": "Programas Académicos",
+    "name": "Asociación de Estudiantes de Medicina y Ciencias de la Salud",
+    "acronym": "AETEC",
+    "description": "Participación médica formativa, salud global y desarrollo de soluciones proactivas en salud comunitaria.",
+    "instagram": "@aetec.mty",
+    "instagramUrl": "https://www.instagram.com/aetec.mty"
+  },
+  {
+    "id": "59",
+    "category": "Programas Académicos",
+    "name": "Asociación de Estudiantes Interesados en Dermatología",
+    "acronym": "A-DERMA",
+    "description": "Divulgación e información de valor sobre cuidado de la piel, pelo y uñas, así como aspectos clínicos dermatológicos.",
+    "instagram": "@aderma.mty",
+    "instagramUrl": "https://www.instagram.com/aderma.mty"
+  },
+  {
+    "id": "60",
+    "category": "Programas Académicos",
+    "name": "Asociación Estudiantil de Ginecología y Obstetricia",
+    "acronym": "GYO",
+    "description": "Formación médica enfocada en la salud reproductiva de la mujer, habilidades quirúrgicas y educación sexual integral.",
+    "instagram": "@gyo.mty.",
+    "instagramUrl": "https://www.instagram.com/gyo.mty."
+  },
+  {
+    "id": "61",
+    "category": "Programas Académicos",
+    "name": "Asociación Estudiantil de Medicina Geriátrica",
+    "acronym": "GERAS",
+    "description": "Aprendizaje sobre el envejecimiento saludable, patologías geriátricas y atención médica integral al adulto mayor.",
+    "instagram": "@geras.mty.",
+    "instagramUrl": "https://www.instagram.com/geras.mty."
+  },
+  {
+    "id": "62",
+    "category": "Programas Académicos",
+    "name": "Baja SAE Monterrey",
+    "acronym": "BAJA SAE",
+    "description": "Diseño, manufactura, análisis y competencia internacional con vehículos monoplaza todoterreno tipo off-road.",
+    "instagram": "@bajasae.mty.",
+    "instagramUrl": "https://www.instagram.com/bajasae.mty."
+  },
+  {
+    "id": "63",
+    "category": "Programas Académicos",
+    "name": "Association for Computing Machinery",
+    "acronym": "ACM",
+    "description": "Capítulo estudiantil promotor de ciencias computacionales, organización de HackMTY y entrenamiento en programación competitiva ICPC.",
+    "instagram": "@tecacm.mty.",
+    "instagramUrl": "https://www.instagram.com/tecacm.mty."
+  },
+  {
+    "id": "64",
+    "category": "Programas Académicos",
+    "name": "AWS Cloud Club",
+    "acronym": "AWS CC",
+    "description": "Capacitación práctica en arquitecturas en la nube de Amazon Web Services, inteligencia artificial y cloud computing.",
+    "instagram": "@aws.mty",
+    "instagramUrl": "https://www.instagram.com/aws.mty"
+  },
+  {
+    "id": "65",
+    "category": "Programas Académicos",
+    "name": "Biomedical Engineering Society",
+    "acronym": "BMES",
+    "description": "Orientación vocacional, preparación académica y vinculación para estudiantes de ingeniería biomédica.",
+    "instagram": "@bmestec.mty",
+    "instagramUrl": "https://www.instagram.com/bmestec.mty"
+  },
+  {
+    "id": "66",
+    "category": "Programas Académicos",
+    "name": "Capítulo Estudiantil Interesados en Cirugía",
+    "acronym": "CEIC",
+    "description": "Talleres de destrezas quirúrgicas, revisiones de casos y acompañamiento en quirófano con especialistas.",
+    "instagram": "@ceic_emis.mty",
+    "instagramUrl": "https://www.instagram.com/ceic_emis.mty"
+  },
+  {
+    "id": "67",
+    "category": "Programas Académicos",
+    "name": "Cardiology & Pneumology Student Organization",
+    "acronym": "CPSO",
+    "description": "Profundización en las áreas de cardiología y neumología de la mano de médicos especialistas.",
+    "instagram": "@cpso.mty.",
+    "instagramUrl": "https://www.instagram.com/cpso.mty."
+  },
+  {
+    "id": "68",
+    "category": "Programas Académicos",
+    "name": "BioLab Tec de Monterrey",
+    "acronym": "BIOLAB",
+    "description": "Competencias de investigación de laboratorio, formulación de proyectos y divulgación científica aplicada a bioprocesos.",
+    "instagram": "@biolabtec.mty.",
+    "instagramUrl": "https://www.instagram.com/biolabtec.mty."
+  },
+  {
+    "id": "69",
+    "category": "Programas Académicos",
+    "name": "Biomedical Advanced X-Disciplinary Integrated Systems",
+    "acronym": "B-AXIS",
+    "description": "Desarrollo técnico, proyectos biomédicos multidisciplinarios e integración de tecnología en salud.",
+    "instagram": "@imd_baxis",
+    "instagramUrl": "https://www.instagram.com/imd_baxis"
+  },
+  {
+    "id": "70",
+    "category": "Programas Académicos",
+    "name": "Claude Tec",
+    "acronym": "CLAUDE TEC",
+    "description": "Comunidad enfocada en el uso ético, crítico y estratégico de modelos de lenguaje e inteligencia artificial avanzada.",
+    "instagram": "@claude.tec",
+    "instagramUrl": "https://www.instagram.com/claude.tec"
+  },
+  {
+    "id": "71",
+    "category": "Programas Académicos",
+    "name": "Cybersecurity Tec",
+    "acronym": "CYBERSECURITY",
+    "description": "Fomentar habilidades prácticas de seguridad de la información, buenas prácticas digitales y análisis de amenazas cibernéticas.",
+    "instagram": "@cybersecuritytec.mty",
+    "instagramUrl": "https://www.instagram.com/cybersecuritytec.mty"
+  },
+  {
+    "id": "72",
+    "category": "Programas Académicos",
+    "name": "CreaTec",
+    "acronym": "CREATEC",
+    "description": "Ayudar a iniciativas estudiantiles a construir identidades de marca claras y capacitar en branding y diseño visual.",
+    "instagram": "@createc.mty.",
+    "instagramUrl": "https://www.instagram.com/createc.mty."
+  },
+  {
+    "id": "73",
+    "category": "Programas Académicos",
+    "name": "Data Science Club",
+    "acronym": "DSC",
+    "description": "Formación en análisis de datos, visualización, machine learning y aplicación industrial de la ciencia de datos.",
+    "instagram": "@datascience.mty",
+    "instagramUrl": "https://www.instagram.com/datascience.mty"
+  },
+  {
+    "id": "74",
+    "category": "Programas Académicos",
+    "name": "EcoShell",
+    "acronym": "ECOSHELL",
+    "description": "Diseño, manufactura y optimización de vehículos eléctricos de ultra alta eficiencia energética para el Shell Eco-Marathon.",
+    "instagram": "@ecoshell.mty.",
+    "instagramUrl": "https://www.instagram.com/ecoshell.mty."
+  },
+  {
+    "id": "75",
+    "category": "Programas Académicos",
+    "name": "Genobit: Genomics and Bioinformatics",
+    "acronym": "GENOBIT",
+    "description": "Promoción del aprendizaje y proyectos prácticos en análisis genómico, secuencias biológicas y bioinformática computacional.",
+    "instagram": "@genobit.mty.",
+    "instagramUrl": "https://www.instagram.com/genobit.mty."
+  },
+  {
+    "id": "76",
+    "category": "Programas Académicos",
+    "name": "Escudería Blue Thunders Nuevo León",
+    "acronym": "BLUE THUNDERS",
+    "description": "Desarrollo de liderazgo directivo, trabajo colaborativo, networking y vinculación técnico-empresarial en ingeniería.",
+    "instagram": "@bluethunders.mty.",
+    "instagramUrl": "https://www.instagram.com/bluethunders.mty."
+  },
+  {
+    "id": "77",
+    "category": "Programas Académicos",
+    "name": "Immunology and Allergology Chapter for Training",
+    "acronym": "IMPACT",
+    "description": "Capacitación e información médica orientada a la inmunología clínica, alergología y cuidado de la piel.",
+    "instagram": "@impact_mty.",
+    "instagramUrl": "https://www.instagram.com/impact_mty."
+  },
+  {
+    "id": "78",
+    "category": "Programas Académicos",
+    "name": "Fórmula SAE",
+    "acronym": "FSAE",
+    "description": "Diseño ingenieril, construcción física y validación en pista de un vehículo monoplaza tipo fórmula para competencias SAE.",
+    "instagram": "@fsaetec.mty.",
+    "instagramUrl": "https://www.instagram.com/fsaetec.mty."
+  },
+  {
+    "id": "79",
+    "category": "Programas Académicos",
+    "name": "Institute of Food Technologists",
+    "acronym": "IFTSA",
+    "description": "Comunidad colaborativa orientada a la innovación y mejoramiento en ciencias, ingeniería y tecnología de alimentos.",
+    "instagram": "@iftsa.mty.",
+    "instagramUrl": "https://www.instagram.com/iftsa.mty."
+  },
+  {
+    "id": "80",
+    "category": "Programas Académicos",
+    "name": "Institute of Industrial and Systems Engineers",
+    "acronym": "IISE",
+    "description": "Promoción de la mejora continua, investigación de operaciones, manufactura y optimización de sistemas industriales.",
+    "instagram": "@iise.mty",
+    "instagramUrl": "https://www.instagram.com/iise.mty"
+  },
+  {
+    "id": "81",
+    "category": "Programas Académicos",
+    "name": "Instituto de Contadores Públicos de Nuevo León",
+    "acronym": "ICPNL",
+    "description": "Desarrollo técnico y habilidades profesionales para líderes estudiantiles en finanzas y contaduría pública.",
+    "instagram": "@icpnl.mty.",
+    "instagramUrl": "https://www.instagram.com/icpnl.mty."
+  },
+  {
+    "id": "82",
+    "category": "Programas Académicos",
+    "name": "Mission:Brain",
+    "acronym": "MISSION:BRAIN",
+    "description": "Promover la educación y acceso a técnicas neuroquirúrgicas avanzadas y labores de apoyo médico asistencial.",
+    "instagram": "@missionbrain.mty.",
+    "instagramUrl": "https://www.instagram.com/missionbrain.mty."
+  },
+  {
+    "id": "83",
+    "category": "Programas Académicos",
+    "name": "ASHRAE / Hvackeros",
+    "acronym": "HVACKEROS",
+    "description": "Proyectos y vinculación industrial en sistemas térmicos, calefacción, ventilación, aire acondicionado y refrigeración sustentable.",
+    "instagram": "@ashrae_tec",
+    "instagramUrl": "https://www.instagram.com/ashrae_tec"
+  },
+  {
+    "id": "84",
+    "category": "Programas Académicos",
+    "name": "Pixel Borregos",
+    "acronym": "PIXEL",
+    "description": "Espacio multidisciplinario para la creación, diseño artístico y desarrollo técnico de videojuegos en el campus.",
+    "instagram": "@pixelborregos",
+    "instagramUrl": "https://www.instagram.com/pixelborregos"
+  },
+  {
+    "id": "85",
+    "category": "Programas Académicos",
+    "name": "Programa de Desarrollo del Ingeniero Químico",
+    "acronym": "PRODEIQ",
+    "description": "Integración y desarrollo de actividades formativas para alumnos de ingeniería química e industrias de procesos.",
+    "instagram": "@prodeiq.mty.",
+    "instagramUrl": "https://www.instagram.com/prodeiq.mty."
+  },
+  {
+    "id": "86",
+    "category": "Programas Académicos",
+    "name": "Project Management Institute",
+    "acronym": "PMI",
+    "description": "Promover y capacitar en metodologías ágiles y estándares globales de administración de proyectos (PMBOK/PMI).",
+    "instagram": "@pmi.tecmty.",
+    "instagramUrl": "https://www.instagram.com/pmi.tecmty."
+  },
+  {
+    "id": "87",
+    "category": "Programas Académicos",
+    "name": "Quantum Computing Club",
+    "acronym": "QCC",
+    "description": "Investigación, divulgación y vinculación en algoritmia y sistemas de computación cuántica.",
+    "instagram": "@quantum.mty.",
+    "instagramUrl": "https://www.instagram.com/quantum.mty."
+  },
+  {
+    "id": "88",
+    "category": "Programas Académicos",
+    "name": "RoBorregos",
+    "acronym": "ROBORREGOS",
+    "description": "Equipo representativo de robótica avanzada de competencia internacional, promoviendo el desarrollo tecnológico Open Source.",
+    "instagram": "@roborregos",
+    "instagramUrl": "https://www.instagram.com/roborregos"
+  },
+  {
+    "id": "89",
+    "category": "Programas Académicos",
+    "name": "Sección Estudiantil del Instituto Mexicano de Ingenieros Químicos",
+    "acronym": "SEIMIQ",
+    "description": "Colaboración nacional y vinculación industrial para estudiantes y profesionistas de ingeniería química.",
+    "instagram": "@seimiq.tec.mty.",
+    "instagramUrl": "https://www.instagram.com/seimiq.tec.mty."
+  },
+  {
+    "id": "90",
+    "category": "Programas Académicos",
+    "name": "Sociedad Aeroespacial",
+    "acronym": "SAERO",
+    "description": "Vincular con la industria aeroespacial mediante desarrollo e investigación en cohetería experimental y prototipos aeronáuticos.",
+    "instagram": "@saero.mty.",
+    "instagramUrl": "https://www.instagram.com/saero.mty."
+  },
+  {
+    "id": "91",
+    "category": "Programas Académicos",
+    "name": "Sociedad Astronómica del Tec de Monterrey",
+    "acronym": "SATEM",
+    "description": "Fomentar el estudio, observación astronómica y divulgación científica del universo.",
+    "instagram": "@satem.mty.",
+    "instagramUrl": "https://www.instagram.com/satem.mty."
+  },
+  {
+    "id": "92",
+    "category": "Programas Académicos",
+    "name": "Lean Construction Institute",
+    "acronym": "LCI",
+    "description": "Desarrollar competencias en metodologías Lean Construction para optimizar procesos en la industria de la construcción.",
+    "instagram": "@lci.tecdemty",
+    "instagramUrl": "https://www.instagram.com/lci.tecdemty"
+  },
+  {
+    "id": "93",
+    "category": "Programas Académicos",
+    "name": "Space Makers",
+    "acronym": "SPACE MAKERS",
+    "description": "Desarrollo de prototipos e innovación tecnológica aplicada al sector espacial y satelital.",
+    "instagram": "@spacemakers.mty",
+    "instagramUrl": "https://www.instagram.com/spacemakers.mty"
+  },
+  {
+    "id": "94",
+    "category": "Programas Académicos",
+    "name": "Student Energy",
+    "acronym": "SE",
+    "description": "Concientizar sobre transición energética, fuentes renovables y sustentabilidad en el sector energético.",
+    "instagram": "@studentenergy.tecmty",
+    "instagramUrl": "https://www.instagram.com/studentenergy.tecmty"
+  },
+  {
+    "id": "95",
+    "category": "Programas Académicos",
+    "name": "Student Orthopedics and Traumatology Chapter",
+    "acronym": "STORT",
+    "description": "Talleres y profundización médica en traumatología, ortopedia y cirugías del sistema osteomuscular.",
+    "instagram": "@stort.mty",
+    "instagramUrl": "https://www.instagram.com/stort.mty"
+  },
+  {
+    "id": "96",
+    "category": "Programas Académicos",
+    "name": "Sucesso Motor",
+    "acronym": "SUCESSO",
+    "description": "Divulgación de la ingeniería, tecnología y trascendencia del automovilismo deportivo a nivel global.",
+    "instagram": "@sucessomotor.mty",
+    "instagramUrl": "https://www.instagram.com/sucessomotor.mty"
+  },
+  {
+    "id": "97",
+    "category": "Programas Académicos",
+    "name": "Tec Innovation Club",
+    "acronym": "TIC",
+    "description": "Fomentar ecosistemas de innovación corporativa, retos de negocio y organización del Tec Innovation Challenge.",
+    "instagram": "@tecinnovationclub",
+    "instagramUrl": "https://www.instagram.com/tecinnovationclub"
+  },
+  {
+    "id": "98",
+    "category": "Programas Académicos",
+    "name": "Tec Racing",
+    "acronym": "TEC RACING",
+    "description": "Promoción y captación de talento para las distintas escuderías automotrices del campus.",
+    "instagram": "@tecracing.mtyy.",
+    "instagramUrl": "https://www.instagram.com/tecracing.mtyy."
+  },
+  {
+    "id": "99",
+    "category": "Programas Académicos",
+    "name": "Vehículos Autónomos No Tripulados",
+    "acronym": "VANTTEC",
+    "description": "Investigación, desarrollo y competencias internacionales de vehículos aéreos, terrestres y acuáticos autónomos.",
+    "instagram": "@vanttec",
+    "instagramUrl": "https://www.instagram.com/vanttec"
+  },
+  {
+    "id": "100",
+    "category": "Programas Académicos",
+    "name": "Institute of Electrical and Electronics Engineers",
+    "acronym": "IEEE",
+    "description": "Comunidad técnica enfocada en desarrollo en ingeniería eléctrica, electrónica, robótica y computación.",
+    "instagram": "@ieeetec.mty.",
+    "instagramUrl": "https://www.instagram.com/ieeetec.mty."
+  },
+  {
+    "id": "101",
+    "category": "Programas Académicos",
+    "name": "Artificial Intelligence Club",
+    "acronym": "AIC",
+    "description": "Inspirar a estudiantes de todas las carreras a integrar la Inteligencia Artificial de forma ética y aplicada.",
+    "instagram": "@artificialintelligenceclub.mty.",
+    "instagramUrl": "https://www.instagram.com/artificialintelligenceclub.mty."
+  },
+  {
+    "id": "102",
+    "category": "Programas Académicos",
+    "name": "Asociación X Interés Olímpico Matemático",
+    "acronym": "AXIOMA",
+    "description": "Semillero y entrenamiento para competencias y olimpiadas matemáticas universitarias y preuniversitarias.",
+    "instagram": "@axioma.mty.",
+    "instagramUrl": "https://www.instagram.com/axioma.mty."
+  },
+  {
+    "id": "103",
+    "category": "Programas Académicos",
+    "name": "Sociedad de Honores de Relaciones Internacionales",
+    "acronym": "SHRRII",
+    "description": "Excelencia académica, investigación geopolítica y análisis de retos internacionales para estudiantes de RRII.",
+    "instagram": "@shrrii.tec",
+    "instagramUrl": "https://www.instagram.com/shrrii.tec"
+  },
+  {
+    "id": "104",
+    "category": "Programas Académicos",
+    "name": "Technical Arts",
+    "acronym": "TECHNICAL ARTS",
+    "description": "Visualización científica, simulación por computadora en tiempo real y gemelos digitales en GPUs.",
+    "instagram": "@technicalarts.mty",
+    "instagramUrl": "https://www.instagram.com/technicalarts.mty"
+  },
+  {
+    "id": "105",
+    "category": "Programas Académicos",
+    "name": "Vínculo Estudiantil de Oftalmología",
+    "acronym": "VEO",
+    "description": "Promoción del cuidado de la salud visual y formación formativo-clínica en oftalmología.",
+    "instagram": "@veo.mty.",
+    "instagramUrl": "https://www.instagram.com/veo.mty."
+  },
+  {
+    "id": "106",
+    "category": "Programas Académicos",
+    "name": "Construction Management Association America Student Chapter",
+    "acronym": "CMAA",
+    "description": "Formación de directores y líderes en gerencia de proyectos de edificación e infraestructura.",
+    "instagram": "@cmaa.mty.",
+    "instagramUrl": "https://www.instagram.com/cmaa.mty."
+  },
+  {
+    "id": "107",
+    "category": "Programas Académicos",
+    "name": "Robotics and Automation Society Tec de Monterrey",
+    "acronym": "RAS TEC",
+    "description": "Capítulo técnico de robótica, automatización industrial, control y mecatrónica de precisión.",
+    "instagram": "@rastecmty",
+    "instagramUrl": "https://www.instagram.com/rastecmty"
+  },
+  {
+    "id": "108",
+    "category": "Programas Académicos",
+    "name": "Olympus Robotics",
+    "acronym": "OLYMPUS",
+    "description": "Diseño de rovers de exploración planetaria y robótica aeroespacial para el University Rover Challenge (URC).",
+    "instagram": "@olympus.robotics",
+    "instagramUrl": "https://www.instagram.com/olympus.robotics"
+  },
+  {
+    "id": "109",
+    "category": "Programas Académicos",
+    "name": "Swift Tec",
+    "acronym": "SWIFT TEC",
+    "description": "HUB de desarrollo colaborativo de software y apps escalables en el lenguaje Swift para dispositivos Apple.",
+    "instagram": "@swift.tec",
+    "instagramUrl": "https://www.instagram.com/swift.tec"
+  },
+  {
+    "id": "110",
+    "category": "Religión y Filosofía",
+    "name": "Metanoia",
+    "acronym": "METANOIA",
+    "description": "Formación de líderes mediante el estudio y aplicación de principios bíblicos y vocación de servicio.",
+    "instagram": "@metanoia",
+    "instagramUrl": "https://www.instagram.com/metanoia"
+  },
+  {
+    "id": "111",
+    "category": "Religión y Filosofía",
+    "name": "Fellowship of Catholic University Students",
+    "acronym": "FOCUS",
+    "description": "Espacio de acompañamiento formativo y vivencia de la fe católica en la vida universitaria.",
+    "instagram": "@focus_tecmty.",
+    "instagramUrl": "https://www.instagram.com/focus_tecmty."
+  },
+  {
+    "id": "112",
+    "category": "Religión y Filosofía",
+    "name": "Misión Católica Universitaria",
+    "acronym": "MCU",
+    "description": "Integrar la fe católica con la vida profesional y cotidiana, fortaleciendo valores humanos y servicio comunitario.",
+    "instagram": "@mcutec.mty.",
+    "instagramUrl": "https://www.instagram.com/mcutec.mty."
+  },
+  {
+    "id": "113",
+    "category": "Religión y Filosofía",
+    "name": "Shalom",
+    "acronym": "SHALOM",
+    "description": "Compartir la experiencia enriquecedora de la fe cristiana, transmitiendo paz y salud espiritual.",
+    "instagram": "@shalomtec.mty.",
+    "instagramUrl": "https://www.instagram.com/shalomtec.mty."
+  },
+  {
+    "id": "114",
+    "category": "Religión y Filosofía",
+    "name": "Civitas",
+    "acronym": "CIVITAS",
+    "description": "Comunidad de estudiantes cristianos evangélicos enfocada en vivir una vida personal y académica saludable y con valores.",
+    "instagram": "@civitas.mty.",
+    "instagramUrl": "https://www.instagram.com/civitas.mty."
+  },
+  {
+    "id": "115",
+    "category": "Salud y Bienestar",
+    "name": "Donhemos",
+    "acronym": "DONHEMOS",
+    "description": "Promover la cultura altruista de donación de sangre y concientizar sobre la salud circulatoria comunitaria.",
+    "instagram": "@donhemos.mty",
+    "instagramUrl": "https://www.instagram.com/donhemos.mty"
+  },
+  {
+    "id": "116",
+    "category": "Salud y Bienestar",
+    "name": "Humans in Health",
+    "acronym": "HIH",
+    "description": "Promover la salud integral y la humanización en la práctica médica y el cuidado del paciente.",
+    "instagram": "@humans_inhealth.mty.",
+    "instagramUrl": "https://www.instagram.com/humans_inhealth.mty."
+  },
+  {
+    "id": "117",
+    "category": "Salud y Bienestar",
+    "name": "Red Borrego",
+    "acronym": "RED BORREGO",
+    "description": "Red de apoyo y acompañamiento para la salud mental, contención emocional y bienestar estudiantil.",
+    "instagram": "@redborrego.mty.",
+    "instagramUrl": "https://www.instagram.com/redborrego.mty."
+  },
+  {
+    "id": "118",
+    "category": "Salud y Bienestar",
+    "name": "Red de Respuesta a Emergencias Médicas",
+    "acronym": "RREM",
+    "description": "Capacitación en primeros auxilios, prevención médica y respuesta rápida ante emergencias prehospitalarias.",
+    "instagram": "@rrem.mty.",
+    "instagramUrl": "https://www.instagram.com/rrem.mty."
+  },
+  {
+    "id": "119",
+    "category": "Sentido Humano",
+    "name": "Amando Cada Día",
+    "acronym": "ACD",
+    "description": "Acompañamiento socioemocional y regularización académica semanal para niñas, niños y jóvenes institucionalizados.",
+    "instagram": "@amandocadadia.mty",
+    "instagramUrl": "https://www.instagram.com/amandocadadia.mty"
+  },
+  {
+    "id": "120",
+    "category": "Sentido Humano",
+    "name": "Andar México",
+    "acronym": "ANDAR",
+    "description": "Movilización comunitaria, organización de voluntariados y eventos para atender causas sociales vulnerables.",
+    "instagram": "@andarmexico.mty.",
+    "instagramUrl": "https://www.instagram.com/andarmexico.mty."
+  },
+  {
+    "id": "121",
+    "category": "Sentido Humano",
+    "name": "Brigadas EMIS",
+    "acronym": "BRIGADAS",
+    "description": "Atención médica, preventiva y comunitaria con empatía y calidez en sectores vulnerables.",
+    "instagram": "@brigadasemis.mty",
+    "instagramUrl": "https://www.instagram.com/brigadasemis.mty"
+  },
+  {
+    "id": "122",
+    "category": "Sentido Humano",
+    "name": "CENIT",
+    "acronym": "CENIT",
+    "description": "Proyectos de liderazgo, sentido de pertenencia y compromiso social impulsados por becarios del programa Líderes del Mañana.",
+    "instagram": "@cenit.mty",
+    "instagramUrl": "https://www.instagram.com/cenit.mty"
+  },
+  {
+    "id": "123",
+    "category": "Sentido Humano",
+    "name": "Creciendo con México",
+    "acronym": "CCMX",
+    "description": "Proyectos de impacto social sostenible y bienestar comunitario fundamentados en los ODS.",
+    "instagram": "@ccmx.mty",
+    "instagramUrl": "https://www.instagram.com/ccmx.mty"
+  },
+  {
+    "id": "124",
+    "category": "Sentido Humano",
+    "name": "Vitales",
+    "acronym": "VITALES",
+    "description": "Red universitaria de liderazgo e innovación social conectada con organizaciones de la sociedad civil.",
+    "instagram": "@vitales.tec",
+    "instagramUrl": "https://www.instagram.com/vitales.tec"
+  },
+  {
+    "id": "125",
+    "category": "Sentido Humano",
+    "name": "Techeros Tec",
+    "acronym": "TECHEROS",
+    "description": "Construcción comunitaria de viviendas de emergencia y combate activo a la pobreza en asentamientos populares en alianza con TECHO.",
+    "instagram": "@techerostec.mty",
+    "instagramUrl": "https://www.instagram.com/techerostec.mty"
+  },
+  {
+    "id": "126",
+    "category": "Sentido Humano",
+    "name": "Vitae",
+    "acronym": "VITAE",
+    "description": "Promoción, aprecio y respeto irrestricto de la dignidad de la vida humana en todas sus etapas.",
+    "instagram": "@vitaetec.mty.",
+    "instagramUrl": "https://www.instagram.com/vitaetec.mty."
+  },
+  {
+    "id": "127",
+    "category": "Sentido Humano",
+    "name": "Operation Smile Tec",
+    "acronym": "OPERATION SMILE",
+    "description": "Transformación de vidas a través de la sensibilización, voluntariado y apoyo a cirugías reconstructivas para labio y paladar hendido.",
+    "instagram": "@operationsmiletec",
+    "instagramUrl": "https://www.instagram.com/operationsmiletec"
+  }
+]
