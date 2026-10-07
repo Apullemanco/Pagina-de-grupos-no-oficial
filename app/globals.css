@@ -59,6 +59,17 @@
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { margin: 0; background: var(--background); color: var(--foreground); font-family: Arial, Helvetica, sans-serif; }
+.liquid-page { position: relative; isolation: isolate; overflow: hidden; }
+.liquid-page > *:not(.liquid-orb) { position: relative; z-index: 1; }
+.liquid-orb { position: fixed; z-index: 0; width: 28rem; height: 28rem; border-radius: 999px; filter: blur(120px); opacity: .34; pointer-events: none; animation: liquid-float 14s ease-in-out infinite alternate; }
+.liquid-orb-one { top: -10rem; left: -8rem; background: #2563eb; }
+.liquid-orb-two { top: 22rem; right: -12rem; background: #7c3aed; animation-delay: -5s; }
+.liquid-orb-three { bottom: -16rem; left: 36%; background: #0891b2; animation-delay: -9s; }
+@keyframes liquid-float { to { transform: translate3d(32px, -24px, 0) scale(1.08); } }
+.glass-card, .glass-panel { transition: border-color .25s ease, transform .25s ease, box-shadow .25s ease; }
+.glass-card:hover { border-color: rgba(255,255,255,.25); transform: translateY(-4px); box-shadow: 0 24px 55px rgba(0,0,0,.28); }
+.glass-nav { box-shadow: 0 18px 45px rgba(0,0,0,.18); }
+@media (prefers-reduced-motion: reduce) { .liquid-orb { animation: none; } .glass-card { transition: none; } }
 button, input { font: inherit; }
 button { cursor: pointer; }
 .admin-input { width: 100%; border: 1px solid var(--border); border-radius: 0.75rem; background: var(--background); padding: 0.75rem 0.875rem; color: var(--foreground); outline: none; }
