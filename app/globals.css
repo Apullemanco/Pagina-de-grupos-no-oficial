@@ -83,7 +83,17 @@ body { margin: 0; background: var(--background); color: var(--foreground); font-
 [data-theme='light'] .portal-header { background: #f3f6fa !important; border-color: transparent !important; color: #14253d; box-shadow: none; }
 [data-theme='light'] .portal-header button { color: #14253d; }
 [data-theme='light'] .portal-header nav button { color: #526781; }
-[data-theme='light'] .portal-header nav button.bg-card { color: #07549e; background: #dce8f5; }
+[data-theme='light'] .portal-header nav button.bg-card { color: #07549e; background: rgba(255,255,255,.62); }
+.portal-header { background: transparent !important; border-color: transparent !important; }
+.portal-header .liquid-menu { background: rgba(255,255,255,.14) !important; border-color: rgba(255,255,255,.3) !important; backdrop-filter: blur(18px); }
+.portal-header .liquid-menu button { color: #dbeafe; }
+.portal-header .liquid-menu button.bg-card { color: #102a49; background: rgba(255,255,255,.78); }
+.portal-header .liquid-menu + * { border-color: transparent; }
+[data-theme='light'] .portal-header { background: transparent !important; color: #14253d; }
+[data-theme='light'] .portal-header .liquid-menu { background: rgba(255,255,255,.48) !important; border-color: rgba(100,116,139,.28) !important; }
+[data-theme='light'] .portal-header .liquid-menu button { color: #526781; }
+[data-theme='light'] .portal-header .liquid-menu button.bg-card { color: #07549e; background: rgba(255,255,255,.82); }
+[data-theme='light'] .portal-header > div > div button { color: #14253d; border-color: rgba(100,116,139,.35); background: rgba(255,255,255,.45); }
 button, input { font: inherit; }
 button { cursor: pointer; }
 .admin-input { width: 100%; border: 1px solid var(--border); border-radius: 0.75rem; background: var(--background); padding: 0.75rem 0.875rem; color: var(--foreground); outline: none; }
