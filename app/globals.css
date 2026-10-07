@@ -89,6 +89,22 @@ button { cursor: pointer; }
   .council-cpe { background: #A7A9AC; }
   .council-te { background: #07549E; }
   .council-vivencia { background: #07549E; }
+.council-text-CE { color: #67e8f9; }
+.council-text-CARE { color: #fdba74; }
+.council-text-CSE { color: #d8b4fe; }
+.council-text-CGIV { color: #fda4af; }
+.council-text-CRS { color: #f9a8d4; }
+.council-text-CPE { color: #000000; }
+.council-text-TE { color: #93c5fd; }
+.council-text-VIVENCIA { color: #86efac; }
+[data-theme='light'] .council-text-CE { color: #087f99; }
+[data-theme='light'] .council-text-CARE { color: #b45309; }
+[data-theme='light'] .council-text-CSE { color: #6b21a8; }
+[data-theme='light'] .council-text-CGIV { color: #be123c; }
+[data-theme='light'] .council-text-CRS { color: #be185d; }
+[data-theme='light'] .council-text-CPE { color: #000000; }
+[data-theme='light'] .council-text-TE { color: #07549e; }
+[data-theme='light'] .council-text-VIVENCIA { color: #15803d; }
   .category-pill-blue { background: #E7F0FB; color: #0B4F9C; }
 .category-pill-coral { background: #FCE9E4; color: #B84B34; }
 .category-pill-yellow { background: #FFF5D6; color: #8A6500; }
