@@ -2,7 +2,7 @@ import { gateway, generateText } from 'ai'
 import { NextRequest, NextResponse } from 'next/server'
 import groupsData from '@/data/groups.json'
 
-const context = `Eres el Asistente de Grupos, una guía estudiantil del portal no oficial de grupos del Tec Campus Monterrey. Responde siempre en español, de forma directa y útil. Primero identifica la intención de la pregunta; no respondas con información genérica si preguntan por un grupo, consejo, líder, formato, reserva o trámite. Usa únicamente los datos concretos del contexto; no inventes nombres, correos, fechas ni grupos. Si no tienes el dato, dilo y señala la sección exacta donde puede revisarse. No menciones que eres un bot ni afirmes que el portal es oficial.
+const context = `Eres el Asistente de Grupos, una guía estudiantil del portal no oficial de grupos del Tec Campus Monterrey. Responde siempre en español, de forma directa y útil. Escribe como máximo 70 palabras, salvo que el usuario pida una explicación detallada. Usa párrafos cortos y, cuando haya pasos, una lista numerada de máximo 4 puntos. No uses introducciones genéricas, repitas la pregunta ni cierres con frases vacías. Primero identifica la intención de la pregunta; no respondas con información genérica si preguntan por un grupo, consejo, líder, formato, reserva o trámite. Usa únicamente los datos concretos del contexto; no inventes nombres, correos, fechas ni grupos. Si no tienes el dato, dilo y señala la sección exacta donde puede revisarse. No menciones que eres un bot ni afirmes que el portal es oficial.
 
 DATOS DEL PORTAL:
 - Hay ${groupsData.length} grupos estudiantiles organizados por giro.
@@ -16,7 +16,9 @@ const normalize = (value: string) => value.normalize('NFD').replace(/[\u0300-\u0
 function localReply(message: string) {
   const text = normalize(message.trim())
   const words = text.split(/[^a-z0-9]+/).filter((word) => word.length > 2 && !['que', 'hay', 'los', 'las', 'del', 'una', 'uno', 'como', 'para', 'con', 'por', 'grupo', 'grupos'].includes(word))
-  if (text.includes('fecha') || text.includes('cuando') || text.includes('cuándo') || text.includes('plazo') || text.includes('anticipación') || text.includes('anticipacion')) return 'Para que tu actividad sea aceptada a tiempo: registra el evento al menos 10 días hábiles antes, solicita presupuesto 15 días hábiles antes y registra un grupo nuevo 20 días hábiles antes. Las fechas publicadas por coordinación aparecen en “Fechas importantes”.'
+  if (text.includes('reserv') || text.includes('sala')) return 'Reserva una sala desde el botón “Reservar una sala” en Inicio. El enlace abre Microsoft Bookings y puede pedirte iniciar sesión con tu cuenta institucional.'
+  if (text.includes('abrir') || text.includes('nuevo grupo') || text.includes('crear grupo')) return 'Para abrir un grupo: 1) revisa que no exista uno similar; 2) prepara la Presentación y el Anexo 2; 3) agenda una cita con CGIV; 4) envía la documentación completa. Consulta “Abrir un grupo”.'
+  if (text.includes('fecha') || text.includes('cuando') || text.includes('cuándo') || text.includes('plazo') || text.includes('anticipación') || text.includes('anticipacion')) return 'Referencia rápida: evento, 10 días hábiles antes; presupuesto, 15 días; grupo nuevo, 20 días. Confirma la fecha vigente en “Fechas importantes”.'
   if (text.includes('presupuesto') || text.includes('dinero') || text.includes('pago')) return 'La solicitud de presupuesto debe enviarse con al menos 15 días hábiles de anticipación. Revisa el formato correspondiente y la fecha vigente en “Formatos” y “Fechas importantes”. El contacto administrativo se publicará en cuanto coordinación lo agregue.'
   if (text.includes('giro') || text.includes('categor')) return `Puedes filtrar los ${groupsData.length} grupos desde “Grupos”. Los giros disponibles son: ${Array.from(new Set(groupsData.map((g) => g.category))).join(', ')}.`
   if (text.includes('formato') || text.includes('documento')) return 'Ve a “Formatos” para consultar cada documento, su ejemplo y su fecha límite. Si todavía no aparece un formato, significa que coordinación aún no lo ha publicado.'
@@ -36,6 +38,10 @@ export async function POST(request: NextRequest) {
     const messages = Array.isArray(body?.messages) ? body.messages : []
     const lastMessage = messages.at(-1)?.content?.trim()
     if (!lastMessage) return NextResponse.json({ error: 'Escribe una pregunta para TECbot.' }, { status: 400 })
+
+    const normalizedQuestion = normalize(lastMessage)
+    const deterministic = ['abrir', 'nuevo grupo', 'crear grupo', 'reserv', 'sala', 'formato', 'documento', 'fecha', 'cuando', 'plazo', 'anticipacion', 'presupuesto'].some((term) => normalizedQuestion.includes(term))
+    if (deterministic) return NextResponse.json({ text: localReply(lastMessage), fallback: true })
 
     try {
       const result = await Promise.race([
