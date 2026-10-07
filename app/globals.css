@@ -138,8 +138,8 @@ button { cursor: pointer; }
   .council-te { background: #07549E; }
   .council-se { background: #2563eb; }
 .council-text-SE { color: #93c5fd; }
-.council-card-SE { border-color: rgba(96,165,250,.35); background: rgba(17,32,52,.72); box-shadow: none !important; }
-.council-card-SE:hover { border-color: rgba(96,165,250,.35); box-shadow: none !important; transform: none; }
+.council-section .glass-card, .council-section .glass-card:hover { border-color: rgba(255,255,255,.1) !important; background: rgba(17,32,52,.72) !important; box-shadow: none !important; transform: none !important; }
+.council-card-SE { border-color: rgba(255,255,255,.1) !important; background: rgba(17,32,52,.72) !important; }
 .council-vivencia { background: #07549E; }
 .council-text-CE { color: #67e8f9; }
 .council-text-CARE { color: #fdba74; }
