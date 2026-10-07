@@ -138,8 +138,7 @@ button { cursor: pointer; }
   .council-te { background: #07549E; }
   .council-se { background: #2563eb; }
 .council-text-SE { color: #93c5fd; }
-.council-card-SE { border-color: rgba(96,165,250,.35); background: linear-gradient(145deg, rgba(37,99,235,.2), rgba(17,32,52,.78)); }
-.council-card-SE:hover { border-color: rgba(147,197,253,.72); box-shadow: 0 22px 48px rgba(37,99,235,.2), inset 0 1px rgba(255,255,255,.12); }
+.council-card-SE { border-color: rgba(96,165,250,.35); background: rgba(17,32,52,.72); }
 .council-vivencia { background: #07549E; }
 .council-text-CE { color: #67e8f9; }
 .council-text-CARE { color: #fdba74; }
